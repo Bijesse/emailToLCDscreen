@@ -9,6 +9,6 @@ A Raspberry Pi Zero W and a 16x2 display screen is being used for this project. 
 - [lcddriver.py](https://github.com/the-raspberry-pi-guy/lcd/blob/master/lcddriver.py) is being used to display symbols and scrolling text to the display.
 
 ## Final product
-The [email_i2c.py](i2c_screen/email_i2c.py) script contains the final version of this project which allows anyone to send an email to a specified Gmail address. The Subject of the email and first name of the sender are then displayed on the screen anywhere in the world as long as the screen is connected to WiFi.
+The [email_i2c.py](i2c_screen/email_i2c.py) script contains the final version of this project which allows anyone to send an email to a specified Gmail address. The subject of the email and first name of the sender are then displayed on the screen anywhere in the world as long as the device is connected to WiFi.
 
 ![image preview](poster.png)
